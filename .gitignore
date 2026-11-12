@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+*-captions/
+*-captions-[0-9]*/
